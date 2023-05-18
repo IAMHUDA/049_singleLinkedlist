@@ -140,7 +140,7 @@ int main() {
 			cout << "4. Cari Data" << endl;
 			cout << "5. Keluar" << endl;
 			cout << "pilihan: ";
-			cin >> pilihan;
+			cin >> pilihan; 
 			switch (pilihan) {
 			case 1:
 				addNode();
