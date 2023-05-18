@@ -12,7 +12,7 @@ Node* START = NULL;
  
 void addNode() {
 	int nim;
-	string nama;
+	string nama; 
 	Node* nodeBaru = new Node();
 	cout << "Masukan Nim : ";
 	cin >> nim;
