@@ -112,7 +112,7 @@ void searchData() {
 		system("pause");
 		system("cls");
 		return;
-	}
+	} 
 	else {
 		int nim;
 		cout << "Masukan NIM: ";
